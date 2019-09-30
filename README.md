@@ -1,2 +1,2 @@
-# codewars
-This repo is created to track my progress on codewars
+# Codewars
+This repo is created to track my progress on codewars.
