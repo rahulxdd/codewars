@@ -14,3 +14,8 @@
 
 def song_decoder(song):
     return ' '.join(song.replace('WUB',' ').split())
+
+
+#EXAMPLE:
+#song_decoder("WUBWEWUBAREWUBWUBTHEWUBCHAMPIONSWUBMYWUBFRIENDWUB")
+  # =>  WE ARE THE CHAMPIONS MY FRIEND
