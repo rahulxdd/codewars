@@ -24,3 +24,10 @@ def delete_nth(lst, N):
       itemCounts[num] = count + 1
   print(itemCounts)
   return result
+
+
+#EXAMPLE
+
+  #delete_nth ([1,1,1,1],2) # return [1,1]
+
+  #delete_nth ([20,37,20,21],1) # return [20,37,21]
