@@ -28,6 +28,6 @@ def delete_nth(lst, N):
 
 #EXAMPLE
 
-  #delete_nth ([1,1,1,1],2) # return [1,1]
+  delete_nth ([1,1,1,1],2) # return [1,1]
 
-  #delete_nth ([20,37,20,21],1) # return [20,37,21]
+  delete_nth ([20,37,20,21],1) # return [20,37,21]
