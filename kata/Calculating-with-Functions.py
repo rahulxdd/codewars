@@ -64,3 +64,5 @@ def integer_division(x, y):
 def divided_by(y): return lambda x: integer_division(x, y)
 
 #OUTPUT: 
+#six(divided_by(two())) 
+#3
