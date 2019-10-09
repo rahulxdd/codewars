@@ -30,3 +30,7 @@ def plus(y): return lambda x: x+y
 def minus(y): return lambda x: x-y
 def times(y): return lambda  x: x*y
 def divided_by(y): return lambda  x: x//y
+
+#OR
+
+This can also be done without the floor operator
