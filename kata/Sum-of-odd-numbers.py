@@ -1,4 +1,4 @@
-#7 kyu
+#7 KYU
 #Sum of odd numbers
 
 #Examples: 
