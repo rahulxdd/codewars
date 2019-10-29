@@ -35,7 +35,7 @@ def divided_by(y): return lambda  x: x//y
 
 #OR
 
-#This can also be done without the floor operator
+#This can also be done without the floor operator.
 
 #SOLUTION 2
 
